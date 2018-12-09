@@ -41,7 +41,7 @@ except:
 DB_NAME = 'zsky'
 DB_HOST = '127.0.0.1'
 DB_USER = 'root'
-DB_PASS = 'Wtf.8023'
+DB_PASS = '123456'
 BOOTSTRAP_NODES = (
     ("router.bittorrent.com", 6881),
     ("dht.transmissionbt.com", 6881),
